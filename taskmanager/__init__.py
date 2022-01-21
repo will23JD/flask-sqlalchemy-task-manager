@@ -1,5 +1,3 @@
-22 lines (17 sloc)  605 Bytes
-   
 import os
 import re
 from flask import Flask
